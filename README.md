@@ -22,5 +22,5 @@ Bot này là công cụ lý tưởng cho những ai muốn tự động hóa gia
 - Tùy chỉnh kích thước lô (`lotSize`) theo khả năng quản lý vốn của bạn.
 
 ## Thực nghiệm
-- Thực nghiệm bot trên cặp XAU/USD (vàng) trên khung thời gian H4 với entire history.
+Thực nghiệm bot trên cặp XAU/USD (vàng) trên khung thời gian H4 với **entire history**.
 ![Ảnh thực nghiệm](Image/FRSI_Gold.png)
