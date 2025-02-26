@@ -1,7 +1,6 @@
 # FRSI_Gold
-# Bot Giao Dịch Vàng H4
 
-**Bot Giao Dịch Vàng H4** là một bot giao dịch tự động được thiết kế để giao dịch vàng (XAU/USD) trên khung thời gian 4 giờ, sử dụng chỉ báo RSI (Relative Strength Index) làm cơ sở xác định điểm vào lệnh. Bot hoạt động theo chiến lược đơn giản nhưng hiệu quả:  
+**FRSI_Gold** là một bot giao dịch tự động được thiết kế để giao dịch vàng (XAU/USD) trên khung thời gian 4 giờ, sử dụng chỉ báo RSI (Relative Strength Index) làm cơ sở xác định điểm vào lệnh. Bot hoạt động theo chiến lược đơn giản nhưng hiệu quả:  
 - **Mua**: Khi giá thoát khỏi vùng quá bán (RSI dưới 30 và tăng qua 40).  
 - **Bán**: Khi giá rời vùng quá mua (RSI trên 70 và giảm qua 60).  
 
