@@ -10,7 +10,7 @@
 - **Trực quan hóa tín hiệu**: Các điểm vào lệnh được đánh dấu bằng mũi tên trên biểu đồ (mũi tên xanh cho lệnh mua, đỏ cho lệnh bán), hỗ trợ theo dõi dễ dàng.
 
 ## Mục đích sử dụng
-Bot này là công cụ lý tưởng cho những ai muốn tự động hóa giao dịch vàng theo xu hướng RSI trên khung thời gian H4, phù hợp với cả người mới bắt đầu và nhà giao dịch có kinh nghiệm.
+FRSI_Gold là công cụ tự động hóa giao dịch vàng theo xu hướng RSI trên khung thời gian H4.
 
 ## Yêu cầu
 - Cặp tiền: XAU/USD (vàng).  
