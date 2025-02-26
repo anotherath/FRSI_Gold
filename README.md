@@ -21,6 +21,6 @@ Bot này là công cụ lý tưởng cho những ai muốn tự động hóa gia
 - Kiểm tra kỹ trên tài khoản demo trước khi sử dụng trên tài khoản thực.
 - Tùy chỉnh kích thước lô (`lotSize`) theo khả năng quản lý vốn của bạn.
 
-## Thực nghiệm
-Thực nghiệm bot trên cặp XAU/USD (vàng) tại khung thời gian H4 với **entire history**.
-![Ảnh thực nghiệm](Image/FRSI_Gold.png)
+## Thử nghiệm
+Kết quả thử nghiệm bot trên cặp XAU/USD (vàng) tại khung thời gian H4 với **entire history**.
+![Ảnh thử nghiệm](Image/FRSI_Gold.png)
