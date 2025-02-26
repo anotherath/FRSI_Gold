@@ -18,7 +18,7 @@ FRSI_Gold là công cụ tự động hóa giao dịch vàng theo xu hướng RS
 
 ## Lưu ý
 - Kiểm tra kỹ trên tài khoản demo trước khi sử dụng trên tài khoản thực.
-- Tùy chỉnh kích thước lô (`lotSize`) theo khả năng quản lý vốn của bạn.
+- Tùy chỉnh kích thước lô (`lotSize`) theo khả năng quản lý vốn.
 
 ## Thử nghiệm
 Kết quả thử nghiệm bot trên cặp XAU/USD (vàng) tại khung thời gian H4 với **entire history**.
