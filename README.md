@@ -6,10 +6,9 @@
 - **Bán**: Khi giá rời vùng quá mua (RSI trên 70 và giảm qua 60).  
 
 ## Tính năng chính
-- **Quản lý lệnh**: Bot mở hai lệnh giao dịch đồng thời với kích thước lô tùy chỉnh (mặc định 0.05 lot), kèm theo mức chốt lời (Take Profit) và dừng lỗ (Stop Loss) được tính toán dựa trên giá cực đại (peak) hoặc cực tiểu (bottom) gần nhất.  
-- **Điều chỉnh Stop Loss**: Tự động di chuyển Stop Loss về điểm vào lệnh khi thị trường đi đúng hướng, giúp bảo toàn vốn.  
-- **Trực quan hóa tín hiệu**: Các điểm vào lệnh được đánh dấu bằng mũi tên trên biểu đồ (mũi tên xanh cho lệnh mua, đỏ cho lệnh bán), hỗ trợ theo dõi dễ dàng.  
-- **Nền tảng**: Được lập trình tối ưu trên MetaTrader, sử dụng thư viện `Trade.mqh` để giao dịch mượt mà và quản lý vị thế hiệu quả.  
+- **Quản lý lệnh**: Bot mở hai lệnh giao dịch đồng thời với kích thước lô tùy chỉnh (mặc định 0.05 lot), kèm theo mức chốt lời (Take Profit) và dừng lỗ (Stop Loss) được tính toán dựa trên giá cực đại (peak) hoặc cực tiểu (bottom) gần nhất, Take Profit 1 và Stop Loss theo tỷ lệ 1:1, Take Profit 2 khi RSI chạm vùng quá mua hoặc quá bán.
+- **Điều chỉnh Stop Loss**: Tự động di chuyển Stop Loss về điểm vào lệnh khi giá chạm Take Profit 1, giúp bảo toàn vốn.  
+- **Trực quan hóa tín hiệu**: Các điểm vào lệnh được đánh dấu bằng mũi tên trên biểu đồ (mũi tên xanh cho lệnh mua, đỏ cho lệnh bán), hỗ trợ theo dõi dễ dàng.
 
 ## Mục đích sử dụng
 Bot này là công cụ lý tưởng cho những ai muốn tự động hóa giao dịch vàng theo xu hướng RSI trên khung thời gian H4, phù hợp với cả người mới bắt đầu và nhà giao dịch có kinh nghiệm.
